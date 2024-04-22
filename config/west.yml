@@ -8,6 +8,6 @@ manifest:
     - name: zmk-lily58-nv
       remote: Rengark
       revision: main
-      # import: app/west.yml
+      import: app/west.yml
   self:
     path: config
